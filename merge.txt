@@ -1,0 +1,1 @@
+This file is here to show what merges look like in tortoisegit's gui log graph
