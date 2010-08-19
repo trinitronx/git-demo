@@ -1,1 +1,14 @@
 This file is here to show what merges look like in tortoisegit's gui log graph
+
+Some text
+
+Some more text
+
+blah
+
+
+1234
+
+5678
+
+
