@@ -1,0 +1,12 @@
+Here's a file to demonstrate rebasing
+
+blah
+
+
+1234
+
+5678
+
+abcdefgh
+
+...
