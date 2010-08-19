@@ -1,7 +1,6 @@
 Here's a file to demonstrate rebasing
 
 blah
-A change in the master branch
 
 1234
 
