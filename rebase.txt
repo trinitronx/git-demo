@@ -8,5 +8,5 @@ A change in the master branch
 5678
 
 abcdefgh
-
+A change in the rebaseme branch
 ...
