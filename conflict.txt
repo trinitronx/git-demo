@@ -1,1 +1,2 @@
 Here's a file to demonstrate conflict handling
+Oh no!  Somebody edited the same file, and pushed before us!
