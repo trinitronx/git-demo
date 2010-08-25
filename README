@@ -1,9 +1,7 @@
 Here is a simple readme file for the project.
 
-Let's see what happens when we branch & merge with conflicts.
-
-Here's a typo that we wnat to fix.  What will happen?
+Here's a typo that we want to fix.  What will happen?
 
 Here we fix the first typo, and make some other changes.
 
-
+Here is an upstream change that will not conflict
