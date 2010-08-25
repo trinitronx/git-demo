@@ -2,10 +2,18 @@ Here's a file to demonstrate rebasing
 
 blah
 
-1234
-
-5678
+0123
+4567
+89AB
+CDEF
 
 abcdefgh
+ijklmnop
+qrstuvwx
+yz.,<>/?
+[]{}|\-_
++=~`!@#$
+%^&*()
+
 A change in the rebaseme branch
 ...
